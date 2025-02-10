@@ -74,15 +74,15 @@ graph TD
 
 # Webhook Setup
 
-• Create a Discord server and text channel.
-• Create a webhook in the channel settings.
-• Copy the webhook URL.
+- Create a Discord server and text channel.
+- Create a webhook in the channel settings.
+- Copy the webhook URL.
 
 # Icon Preparation
 
-• Recommended size: 256x256 pixels.
-• Supported format: .ico.
-• Place in the /icons directory.
+- Recommended size: 256x256 pixels.
+- Supported format: .ico
+- Place in the /icons directory.
 
 # File Structure
 
@@ -103,8 +103,8 @@ RStealer/
 ## Disclaimer ⚠️
 For educational purposes only:
 
-• Security research, authorized penetration testing, and defensive security training.
-• DO NOT use this tool for illegal activities.
+- Security research, authorized penetration testing, and defensive security training.
+- DO NOT use this tool for illegal activities.
 
 License 📄
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
@@ -113,8 +113,8 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 Contributions are welcome! Please follow these steps:
 
-1-Fork the repository
-2-Create your feature branch
-3-Commit your changes
-4-Push to the branch
-5-Open a pull request
+- Fork the repository
+- Create your feature branch
+- Commit your changes
+- Push to the branch
+- Open a pull request
