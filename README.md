@@ -47,6 +47,40 @@ pip install -r requirements.txt
 • Place your .ico files in the icons directory.
 • Prepare your Discord webhook URL.
 
+## How to Get a Discord Webhook URL 📡
+
+To use the Discord Webhook functionality, you'll need to create a webhook URL in your Discord server. Follow these steps:
+
+1. **Create a Discord Server and Text Channel**:
+   - If you haven't already, create a Discord server and a text channel where you want to receive messages.
+   - 
+![Webhook Creation Process](assets/1.png)
+
+2. **Create a Webhook**:
+   - Go to the server settings by clicking on the down arrow next to your server name.
+   - Click on **"Integrations"** in the menu.
+   - Under **Webhooks**, click **"Create Webhook"**.
+   - 
+![Webhook Creation Process](assets/2.png)
+![Webhook Creation Process](assets/3.png)
+![Webhook Creation Process](assets/4.png)
+
+3. **Configure the Webhook**:
+   - Give your webhook a name.
+   - Select the channel where you want the webhook to send messages.
+   - You can customize the webhook avatar if you like.
+   
+4. **Copy the Webhook URL**:
+   - After creating the webhook, click **"Copy Webhook URL"** to get the URL you'll use in the tool.
+   - 
+![Webhook Creation Process](assets/5.png)
+
+5. **Use the Webhook URL in RStealer**:
+   - When running the RStealer tool, paste the webhook URL into the prompt when asked for the **Discord webhook URL**.
+
+![Webhook Creation Process](assets/spideybot.png)
+
+
 ## Usage 🚀
 Run the builder:
 
