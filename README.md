@@ -15,20 +15,20 @@ o888o  o888o 8""88888P'    "888" `Y8bod8P' `Y888""8o o888o `Y8bod8P' d888b
 RStealer is an educational tool demonstrating credential retrieval techniques from popular browsers and collecting system information. **Use only on systems you own or have explicit permission!**
 
 ## Features  🛠️
-- **🖥️ System Information Collection
+- **🖥️ System Information Collection**
         - OS Version
         - Username
         - IP Address
-- **🔑 Browser Credential Retrieval
+- **🔑 Browser Credential Retrieval**
         - Google Chrome
         - Brave Browser
         - Opera Browser
-- **📤 Discord Webhook Integration
-- **🔄 Persistence Mechanism
+- **📤 Discord Webhook Integration**
+- **🔄 Persistence Mechanism**
         - Registry Auto-start Entry
         - Self-replication to AppData
-- **🔒 Built-in Code Obfuscation
-- **🏗️ EXE Builder with Custom Icon Support
+- **🔒 Built-in Code Obfuscation**
+- **🏗️ EXE Builder with Custom Icon Support**
 
 ## Installation 📥
 
@@ -70,21 +70,21 @@ graph TD
     D --> E[Output File]
 ```
 
-##Configuration ⚙️
+## Configuration ⚙️
 
-#Webhook Setup
+# Webhook Setup
 
 • Create a Discord server and text channel.
 • Create a webhook in the channel settings.
 • Copy the webhook URL.
 
-#Icon Preparation
+# Icon Preparation
 
 • Recommended size: 256x256 pixels.
 • Supported format: .ico.
 • Place in the /icons directory.
 
-#File Structure
+# File Structure
 
 ```bash
 RStealer/
@@ -100,16 +100,16 @@ RStealer/
 └── README.md
 ```
 
-##Disclaimer ⚠️
+## Disclaimer ⚠️
 For educational purposes only:
 
 • Security research, authorized penetration testing, and defensive security training.
 • DO NOT use this tool for illegal activities.
 
 License 📄
-This project is licensed under the MIT License – see the LICENSE file for details.
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
-#Contributing 🤝
+# Contributing 🤝
 
 Contributions are welcome! Please follow these steps:
 
